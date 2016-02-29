@@ -1,0 +1,51 @@
+body { 
+    background: white;
+   
+}
+
+ .kanelbullar .ingredienser, .steg, .presentation,{
+        color: black;
+    
+    
+}
+
+.portion, .fyllningsRubrik{
+    color: white;
+    background: red;
+    
+}
+
+.kaneljpg{
+    width: 100%;
+    height: 100%;
+    margin-top: -2.5%;
+    -webkit-transition: all 1.5s ease;
+     -moz-transition: all 1.5s ease;
+       -o-transition: all 1.5s ease;
+      -ms-transition: all 1.5s ease;
+          transition: all 1.5s ease;
+    
+    
+}
+
+.sadSmile{
+    float: right;
+    width: 40px;
+    height: 40px;
+    
+    
+}
+
+
+
+
+.main{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin: 0.5em auto 0em auto;
+    height: 100%;
+    width: 950px;
+    background-color: white;
+    border:1.5rem solid white;
+    box-shadow: 50px 50px 100px black;
+    
+}
