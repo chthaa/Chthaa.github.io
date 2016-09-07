@@ -28,6 +28,14 @@ body {
     
 }
 
+#ranking, #votes{
+    float: top;
+    font-size: 120%;
+    font-weight: 900;
+    margin-left: 5px;
+    
+}
+
 .sadSmile{
     float: right;
     width: 40px;
@@ -36,7 +44,16 @@ body {
     
 }
 
+.star{
+    width: 8%;
+    -webkit-filter: grayscale(100%); 
+    float: top;
+}
 
+#ranking{
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
 
 
 .main{
